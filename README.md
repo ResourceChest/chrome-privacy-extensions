@@ -29,7 +29,7 @@ A curated list of Chrome extensions aimed at enhancing user privacy and improvin
 
 ## Contribute
 
-If you know of any other privacy-focused extensions that should be on this list, please raise an issue or submit a pull request. 
+Want to add or suggest a new privacy-focused extension? Check out our [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 
 ## Disclaimer
 
