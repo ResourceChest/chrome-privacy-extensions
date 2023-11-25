@@ -7,8 +7,8 @@ A curated list of Chrome extensions aimed at enhancing user privacy and improvin
 1. [**Privacy Badger**](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)  
    Automatically learns to block invisible trackers.
 
-2. [**F Overlays**](https://chrome.google.com/webstore/detail/fck-overlays/ppedokobpbdajgiejhnjfbdjlgobcpkp)  
-   Remove annoying pop-ups and overlays from websites with a single click.
+2. [**Behind The Overlay**](https://chromewebstore.google.com/detail/behind-the-overlay/ljipkdpcjbmhkdjjmbbaggebcednbbme)  
+   Easily remove frustrating pop-ups and overlays from websites with a single click. 
 
 3. [**uBlock Origin**](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)  
    An efficient ad blocker that is easy on memory and CPU footprint.
