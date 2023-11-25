@@ -25,7 +25,7 @@ A curated list of Chrome extensions aimed at enhancing user privacy and improvin
 7. [**User-Agent Switcher for Chrome**](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)  
    Quickly and easily switch between different user-agents.
 
-9. [**Windscribe**](https://chromewebstore.google.com/detail/hnmpcagpplmpfojmgmnngilcnanddlhb)
+9. [**Windscribe**](https://chromewebstore.google.com/detail/hnmpcagpplmpfojmgmnngilcnanddlhb)  
    A free VPN for enhanced online privacy, encrypting internet connections, and changing virtual location. 
 
 ---
