@@ -28,6 +28,9 @@ A curated list of Chrome extensions aimed at enhancing user privacy and improvin
 9. [**Windscribe**](https://chromewebstore.google.com/detail/hnmpcagpplmpfojmgmnngilcnanddlhb)  
    A free VPN for enhanced online privacy, encrypting internet connections, and changing virtual location. 
 
+10. [**vnsh — Encrypted Sharing**](https://chromewebstore.google.com/detail/vnsh-%E2%80%94-encrypted-sharing/ipilmdgcajaoggfmmblockgofednkbbl)  
+   Zero-knowledge encrypted sharing for developers. AES-256-CBC encryption happens entirely client-side, the server never sees keys or plaintext, and links auto-expire in 24 hours.
+
 ---
 
 ## Contribute
