@@ -4,6 +4,7 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/ResourceChest/chrome-privacy-extensions)](https://github.com/ResourceChest/chrome-privacy-extensions/commits/main)
 [![GitHub stars](https://img.shields.io/github/stars/ResourceChest/chrome-privacy-extensions)](https://github.com/ResourceChest/chrome-privacy-extensions/stargazers)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/ResourceChest/.github/blob/main/CONTRIBUTING.md)
+[![Link Check](https://github.com/ResourceChest/chrome-privacy-extensions/actions/workflows/link-check.yml/badge.svg)](https://github.com/ResourceChest/chrome-privacy-extensions/actions/workflows/link-check.yml)
 
 A curated list of Chrome extensions that protect your privacy and improve your browsing experience. Every extension listed here is available on the Chrome Web Store and has been vetted for usefulness.
 
