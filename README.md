@@ -54,17 +54,24 @@ A curated list of Chrome extensions that protect your privacy and improve your b
 
 - [**Windscribe**](https://chromewebstore.google.com/detail/windscribe-free-proxy-and/hnmpcagpplmpfojmgmnngilcnanddlhb) - A free VPN and proxy that encrypts your internet connection, blocks ads, and changes your virtual location.
 
+---|---|
+| [Custom GPTs](https://github.com/ResourceChest/custom-gpts) | Community-curated catalog of useful Custom GPTs |
+
+> Follow [ResourceChest](https://github.com/ResourceChest) for more curated resource collections.
+
 ---
 
 ## More from ResourceChest
 
-Explore our other curated collections:
-
 | Repository | Description |
-|---|---|
-| [Custom GPTs](https://github.com/ResourceChest/custom-gpts) | Community-curated catalog of useful Custom GPTs |
+|:--------|:------|
+| [Custom GPTs](https://github.com/ResourceChest/custom-gpts) | Community-curated catalog of useful Custom GPTs with ratings |
+| [AI Agents](https://github.com/ResourceChest/ai-agents) | Practical AI agents, frameworks, and tools for developers |
+| [FinOps Tools](https://github.com/ResourceChest/finops-tools) | Vendor-neutral tools for cloud cost optimization |
+| [Local-First Tools](https://github.com/ResourceChest/local-first-tools) | Local-first, offline-capable, privacy-respecting tools |
+| [Dev Tools (No Signup)](https://github.com/ResourceChest/dev-tools-no-signup) | Free developer tools that work instantly without an account |
 
-> Follow [ResourceChest](https://github.com/ResourceChest) for more curated resource collections.
+> **[Follow ResourceChest](https://github.com/ResourceChest)** for more curated resource collections.
 
 ---
 
