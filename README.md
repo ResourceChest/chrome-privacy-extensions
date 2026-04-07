@@ -4,9 +4,9 @@
 
 # Chrome Privacy Extensions
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![GitHub last commit](https://img.shields.io/github/last-commit/ResourceChest/chrome-privacy-extensions)](https://github.com/ResourceChest/chrome-privacy-extensions/commits/main)
-[![GitHub stars](https://img.shields.io/github/stars/ResourceChest/chrome-privacy-extensions)](https://github.com/ResourceChest/chrome-privacy-extensions/stargazers)
+[![License: MIT](https://img.shields.io/github/license/ResourceChest/chrome-privacy-extensions)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/ResourceChest/chrome-privacy-extensions)](https://github.com/ResourceChest/chrome-privacy-extensions/commits/main)
+[![GitHub Stars](https://img.shields.io/github/stars/ResourceChest/chrome-privacy-extensions)](https://github.com/ResourceChest/chrome-privacy-extensions/stargazers)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/ResourceChest/.github/blob/main/CONTRIBUTING.md)
 [![Link Check](https://github.com/ResourceChest/chrome-privacy-extensions/actions/workflows/link-check.yml/badge.svg)](https://github.com/ResourceChest/chrome-privacy-extensions/actions/workflows/link-check.yml)
 
