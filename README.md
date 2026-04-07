@@ -1,39 +1,60 @@
-# Chrome Privacy Extensions List
+# Chrome Privacy Extensions
 
-A curated list of Chrome extensions aimed at enhancing user privacy and improving the overall browsing experience.
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ResourceChest/chrome-privacy-extensions)](https://github.com/ResourceChest/chrome-privacy-extensions/commits/main)
+[![GitHub stars](https://img.shields.io/github/stars/ResourceChest/chrome-privacy-extensions)](https://github.com/ResourceChest/chrome-privacy-extensions/stargazers)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/ResourceChest/.github/blob/main/CONTRIBUTING.md)
 
-## Extensions
+A curated list of Chrome extensions that protect your privacy and improve your browsing experience. Every extension listed here is available on the Chrome Web Store and has been vetted for usefulness.
 
-1. [**Privacy Badger**](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)  
-   Automatically learns to block invisible trackers.
+> **Why privacy?** Your browsing data reveals your interests, habits, location, and identity. Trackers, ads, and data brokers collect this information at scale, often without meaningful consent. These extensions help you take back control.
 
-2. [**Behind The Overlay**](https://chromewebstore.google.com/detail/behind-the-overlay/ljipkdpcjbmhkdjjmbbaggebcednbbme)  
-   Easily remove frustrating pop-ups and overlays from websites with a single click. 
+## Contents
 
-3. [**uBlock Origin**](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)  
-   An efficient ad blocker that is easy on memory and CPU footprint.
+- [Ad Blocking](#ad-blocking)
+- [Tracker Protection](#tracker-protection)
+- [URL & Link Protection](#url--link-protection)
+- [Privacy Utilities](#privacy-utilities)
+- [VPN](#vpn)
+- [Contributing](#contributing)
+- [Disclaimer](#disclaimer)
 
-4. [**Unshorten.link**](https://chrome.google.com/webstore/detail/unshortenlink/gbobdaaeaihkghbokihkofcbndhmbdpd)  
-   Protects from spyware, unsolicited content, and malware hidden in short links.
+## Ad Blocking
 
-5. [**ClearURLs**](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk)  
-   Automatically remove tracking elements from URLs.
+- [**uBlock Origin**](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - An efficient, wide-spectrum content blocker that is easy on memory and CPU. *(Note: Chrome is phasing out Manifest V2 extensions. uBlock Origin may become unavailable in future Chrome versions. See uBlock Origin Lite below as the MV3 alternative.)*
+- [**uBlock Origin Lite**](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) - The Manifest V3 compatible version of uBlock Origin, built to work within Chrome's newer extension framework.
+- [**Ghostery**](https://chromewebstore.google.com/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij) - Blocks ads, stops trackers, and speeds up websites. Includes detailed tracker information for every page you visit.
 
-6. [**Click & Clean**](https://chrome.google.com/webstore/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod)  
-   Deletes your browsing history, typed URLs, Flash cookies, and more, ensuring your browsing stays private.
+## Tracker Protection
 
-7. [**User-Agent Switcher for Chrome**](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)  
-   Quickly and easily switch between different user-agents.
+- [**Privacy Badger**](https://chromewebstore.google.com/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) - Developed by the EFF, automatically learns to block invisible trackers based on their behavior.
+- [**ClearURLs**](https://chromewebstore.google.com/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk) - Automatically removes tracking elements from URLs to protect your privacy when clicking links.
+- [**LocalCDN**](https://chromewebstore.google.com/detail/localcdn/njdfdhgcmkocbgbhcioffdbicglldapd) - Emulates CDN frameworks and libraries locally, preventing unnecessary third-party requests that can be used for tracking.
+- [**Decentraleyes**](https://chromewebstore.google.com/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) - Protects against tracking through content delivery networks by serving local files instead of fetching from third parties.
 
-9. [**Windscribe**](https://chromewebstore.google.com/detail/hnmpcagpplmpfojmgmnngilcnanddlhb)  
-   A free VPN for enhanced online privacy, encrypting internet connections, and changing virtual location. 
+## URL & Link Protection
+
+- [**Unshorten.link**](https://chromewebstore.google.com/detail/unshortenlink/gbobdaaeaihkghbokihkofcbndhmbdpd) - Unshortens URLs to reveal their true destination, protecting you from phishing, malware, and spyware hidden behind short links.
+
+## Privacy Utilities
+
+- [**Click & Clean**](https://chromewebstore.google.com/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod) - Deletes browsing history, typed URLs, Flash cookies, and other browsing data with one click.
+- [**Cookie AutoDelete**](https://chromewebstore.google.com/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh) - Automatically deletes unused cookies when a tab is closed, keeping only the ones you trust.
+- [**User-Agent Switcher for Chrome**](https://chromewebstore.google.com/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg) - Quickly switch between different user-agent strings to reduce browser fingerprinting.
+- [**Behind The Overlay**](https://chromewebstore.google.com/detail/behind-the-overlay/ljipkdpcjbmhkdjjmbbaggebcednbbme) - Remove annoying pop-ups and overlays from websites with a single click.
+- [**Canvas Blocker (Fingerprint Protect)**](https://chromewebstore.google.com/detail/canvas-blocker-fingerprin/nomnklagbgmgghhjidfhnoelnjfndfpd) - Prevents canvas fingerprinting by spoofing canvas API calls, making it harder for sites to uniquely identify your browser.
+- [**NoScript**](https://chromewebstore.google.com/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm) - Maximum protection for your browser. Allows JavaScript, Flash, and other executable content to run only from trusted domains.
+
+## VPN
+
+- [**Windscribe**](https://chromewebstore.google.com/detail/windscribe-free-proxy-and/hnmpcagpplmpfojmgmnngilcnanddlhb) - A free VPN and proxy that encrypts your internet connection, blocks ads, and changes your virtual location.
 
 ---
 
-## Contribute
+## Contributing
 
-Want to add or suggest a new privacy-focused extension? Check out our [CONTRIBUTING.md](https://github.com/ResourceChest/.github/blob/main/CONTRIBUTING.md) for guidelines.
+Want to add or suggest a new privacy-focused extension? Check out our [CONTRIBUTING.md](https://github.com/ResourceChest/.github/blob/main/CONTRIBUTING.md) for guidelines. Pull requests are welcome.
 
 ## Disclaimer
 
-All extensions listed here are based on personal research and community feedback. Please conduct your own research and read reviews before installing any extensions.
+All extensions listed here are based on personal research and community feedback. We are not affiliated with any of the extensions or their developers. Please conduct your own research and read reviews before installing any extension.
