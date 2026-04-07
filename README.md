@@ -52,6 +52,18 @@ A curated list of Chrome extensions that protect your privacy and improve your b
 
 ---
 
+## More from ResourceChest
+
+Explore our other curated collections:
+
+| Repository | Description |
+|---|---|
+| [Custom GPTs](https://github.com/ResourceChest/custom-gpts) | Community-curated catalog of useful Custom GPTs |
+
+> Follow [ResourceChest](https://github.com/ResourceChest) for more curated resource collections.
+
+---
+
 ## Contributing
 
 Want to add or suggest a new privacy-focused extension? Check out our [CONTRIBUTING.md](https://github.com/ResourceChest/.github/blob/main/CONTRIBUTING.md) for guidelines. Pull requests are welcome.
