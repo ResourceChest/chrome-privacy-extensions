@@ -54,13 +54,6 @@ A curated list of Chrome extensions that protect your privacy and improve your b
 
 - [**Windscribe**](https://chromewebstore.google.com/detail/windscribe-free-proxy-and/hnmpcagpplmpfojmgmnngilcnanddlhb) - A free VPN and proxy that encrypts your internet connection, blocks ads, and changes your virtual location.
 
----|---|
-| [Custom GPTs](https://github.com/ResourceChest/custom-gpts) | Community-curated catalog of useful Custom GPTs |
-
-> Follow [ResourceChest](https://github.com/ResourceChest) for more curated resource collections.
-
----
-
 ## More from ResourceChest
 
 | Repository | Description |
