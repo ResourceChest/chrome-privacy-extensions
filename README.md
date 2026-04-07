@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/social-preview.png" alt="Chrome Privacy Extensions" width="800">
+</p>
+
 # Chrome Privacy Extensions
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
