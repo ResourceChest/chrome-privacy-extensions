@@ -29,6 +29,7 @@ A curated list of Chrome extensions that protect your privacy and improve your b
 - [**uBlock Origin**](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - An efficient, wide-spectrum content blocker that is easy on memory and CPU. *(Note: Chrome is phasing out Manifest V2 extensions. uBlock Origin may become unavailable in future Chrome versions. See uBlock Origin Lite below as the MV3 alternative.)*
 - [**uBlock Origin Lite**](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) - The Manifest V3 compatible version of uBlock Origin, built to work within Chrome's newer extension framework.
 - [**Ghostery**](https://chromewebstore.google.com/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij) - Blocks ads, stops trackers, and speeds up websites. Includes detailed tracker information for every page you visit.
+- [**AWAGAM TLD, Domain, and URL Blocker**](https://chromewebstore.google.com/detail/ia-defensa-awagam-tld-dom/efnpgpiffjglnijemnmdkemiliiialbm) - All-purpose blocker that blocks any access to specified URLs; comes with a [converter for EasyList format](https://iadefensa.com/awagam/).
 
 ## Tracker Protection
 
@@ -53,6 +54,11 @@ A curated list of Chrome extensions that protect your privacy and improve your b
 ## VPN
 
 - [**Windscribe**](https://chromewebstore.google.com/detail/windscribe-free-proxy-and/hnmpcagpplmpfojmgmnngilcnanddlhb) - A free VPN and proxy that encrypts your internet connection, blocks ads, and changes your virtual location.
+
+## Fake Data
+
+- [**New Tab Traffic Randomizer**](https://chromewebstore.google.com/detail/ia-defensa-new-tab-traffi/albacpkkpmjpmhlgmkfmnedcbjflibpd) - Opens every new blank tab with a random URL, for extra traffic privacy. Allows to add custom URLs to the rotation, including dynamic parameters.
+- [**Searcher**](https://chromewebstore.google.com/detail/ia-defensa-searcher/lbeplcjbfdepkohcmmionehhodkipkhd) - Auto-generates and triggers searches with realistic terms on pre-configured and customizable search pages.
 
 ## More from ResourceChest
 
