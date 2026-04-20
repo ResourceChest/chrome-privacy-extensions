@@ -73,6 +73,9 @@ A curated list of Chrome extensions that protect your privacy and improve your b
 
 > **[Follow ResourceChest](https://github.com/ResourceChest)** for more curated resource collections.
 
+10. [**vnsh — Encrypted Sharing**](https://chromewebstore.google.com/detail/vnsh-%E2%80%94-encrypted-sharing/ipilmdgcajaoggfmmblockgofednkbbl)  
+   Zero-knowledge encrypted sharing for developers. AES-256-CBC encryption happens entirely client-side, the server never sees keys or plaintext, and links auto-expire in 24 hours.
+
 ---
 
 ## Contributing
